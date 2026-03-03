@@ -38,17 +38,17 @@ From in-game quality-of-life improvements to low-level tooling - if it helps the
 <div align="center">
 
 <a href="https://github.com/SequoiaWynncraft">
-  <img height="160" src="https://stats.notes.supply/api?username=SequoiaWynncraft&theme=catppuccin_mocha&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img height="160" src="https://orgstats.notes.supply/api/stats?org=SequoiaWynncraft&theme=catppuccin_mocha&hide_border=true" alt="GitHub Stats" />
 </a>
 &nbsp;
 <a href="https://github.com/SequoiaWynncraft">
-  <img height="160" src="https://streak.notes.supply/?user=SequoiaWynncraft&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" />
+  <img height="160" src="https://orgstats.notes.supply/api/activity?org=SequoiaWynncraft&theme=catppuccin_mocha&hide_border=true" alt="Activity" />
 </a>
 
 <br>
 
 <a href="https://github.com/SequoiaWynncraft">
-  <img height="140" src="https://stats.notes.supply/api/top-langs?username=SequoiaWynncraft&theme=catppuccin_mocha&layout=compact&hide_border=true" alt="Top Languages" />
+  <img height="140" src="https://orgstats.notes.supply/api/langs?org=SequoiaWynncraft&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" />
 </a>
 
 </div>
