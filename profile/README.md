@@ -15,8 +15,8 @@
 
 <div align="center">
 
-We build mods, maps, and utilities that make the Wynncraft experience smoother.
-From in-game quality-of-life improvements to low-level tooling — if it helps the community, we're interested.
+We build mods, maps, and utilities that make the Wynncraft experience smoother - both for our guild and the community as a whole.
+From in-game quality-of-life improvements to low-level tooling - if it helps the community, we're interested.
 
 </div>
 
@@ -28,10 +28,7 @@ From in-game quality-of-life improvements to low-level tooling — if it helps t
 
 | | Repository | Description | Stack |
 |:-:|:--|:--|:-:|
-| 🗡️ | [**sequoia-mod-rewritten**](https://github.com/SequoiaWynncraft/sequoia-mod-rewritten) | The core Wynncraft QoL mod — rewritten from the ground up | ![Java](https://img.shields.io/badge/Java-cba6f7?style=flat-square&logo=openjdk&logoColor=1e1e2e) |
 | 🗺️ | [**sequoia-map**](https://github.com/SequoiaWynncraft/sequoia-map) | Interactive Wynncraft map tooling | ![Rust](https://img.shields.io/badge/Rust-fab387?style=flat-square&logo=rust&logoColor=1e1e2e) |
-| ⚙️ | [**asmutils**](https://github.com/SequoiaWynncraft/asmutils) | Low-level assembly utilities | ![Assembly](https://img.shields.io/badge/Assembly-f38ba8?style=flat-square&logo=assemblyscript&logoColor=1e1e2e) |
-
 </div>
 
 <br>
@@ -62,6 +59,6 @@ From in-game quality-of-life improvements to low-level tooling — if it helps t
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-*Rooted in the Wynncraft community.*
+*Sequoia, rooted in purpose.* 
 
 </div>
