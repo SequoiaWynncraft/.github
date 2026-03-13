@@ -29,6 +29,7 @@ From in-game quality-of-life improvements to low-level tooling - if it helps the
 | | Repository | Description | Stack |
 |:-:|:--|:--|:-:|
 | 🗺️ | [**sequoia-map**](https://github.com/SequoiaWynncraft/sequoia-map) | Interactive Wynncraft map tooling | ![Rust](https://img.shields.io/badge/Rust-fab387?style=flat-square&logo=rust&logoColor=1e1e2e) |
+| 🌲 | [**sequoia-mod**](https://github.com/SequoiaWynncraft/sequoia-mod) | Sequoia Guild utilities mod | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) |
 </div>
 
 <br>
