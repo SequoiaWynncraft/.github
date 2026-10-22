@@ -34,28 +34,6 @@ From in-game quality-of-life improvements to low-level tooling - if it helps the
 
 <br>
 
-## ── Stats ──
-
-<div align="center">
-
-<a href="https://github.com/SequoiaWynncraft">
-  <img height="160" src="https://orgstats.notes.supply/api/stats?org=SequoiaWynncraft&theme=catppuccin_mocha&hide_border=true&v=20260702-1510" alt="GitHub Stats" />
-</a>
-&nbsp;
-<a href="https://github.com/SequoiaWynncraft">
-  <img height="160" src="https://orgstats.notes.supply/api/activity?org=SequoiaWynncraft&theme=catppuccin_mocha&hide_border=true&v=20260702-1510" alt="Activity" />
-</a>
-
-<br>
-
-<a href="https://github.com/SequoiaWynncraft">
-  <img height="140" src="https://orgstats.notes.supply/api/langs?org=SequoiaWynncraft&theme=catppuccin_mocha&hide_border=true&v=20260702-1510" alt="Top Languages" />
-</a>
-
-</div>
-
-<br>
-
 <div align="center">
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
