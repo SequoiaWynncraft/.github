@@ -6,9 +6,6 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-[![Wynncraft](https://img.shields.io/badge/Wynncraft-MMORPG-b4befe?style=for-the-badge&logo=modrinth&logoColor=cdd6f4&labelColor=1e1e2e)](https://wynncraft.com)
-[![License](https://img.shields.io/badge/Open_Source-a6e3a1?style=for-the-badge&logo=github&logoColor=1e1e2e&labelColor=1e1e2e)](https://github.com/SequoiaWynncraft)
-
 </div>
 
 <br>
